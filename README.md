@@ -1,7 +1,7 @@
 # Dynamic-Traffic-Regulating-System
 Code Developed using Python/OpenCV
 
-In this Repository we Developed Code for 4 Way traffic lane (ie., A Junction). In this we will be using OPENCV built in Module from Python 
+In this Dynamic-Traffic-Regulating-System we Developed Code for 4 Way traffic lane (ie., A Junction). In this we will be using OPENCV built in Module from Python 
 The Main idea works by converting the Color imaged video into black&White image(0's &1's)
 After Detecting the Vehicle Count we we will be using the file system concept (ie., txt files) and sending those vehicle count into those .txt files  for future uses :)
 
