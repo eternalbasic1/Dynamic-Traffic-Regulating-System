@@ -22,5 +22,4 @@ Run Vehicle_detection_main.py
 ![image](https://user-images.githubusercontent.com/68109027/113610488-d473f100-966a-11eb-92bd-6e686799153c.png) ![image](https://user-images.githubusercontent.com/68109027/113610495-d6d64b00-966a-11eb-95a5-1c5a9d6978e2.png) ![image](https://user-images.githubusercontent.com/68109027/113610500-d8a00e80-966a-11eb-9a48-983455f8b132.png) 
 
 
-[Animated PowerPoint Slide Design 2020.pptx](https://github.com/eternalbasic1/Dynamic-Traffic-Regulating-System/files/6269913/Animated.PowerPoint.Slide.Design.2020.pptx)
-
+Power point presentation : [Zero Velocity.pptx](https://github.com/eternalbasic1/Dynamic-Traffic-Regulating-System/files/6269934/Zero.Velocity.pptx)
