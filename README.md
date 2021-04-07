@@ -23,3 +23,5 @@ Run Vehicle_detection_main.py
 
 
 Power point presentation : [Zero Velocity.pptx](https://github.com/eternalbasic1/Dynamic-Traffic-Regulating-System/files/6269934/Zero.Velocity.pptx)
+
+Power point presentation : 
